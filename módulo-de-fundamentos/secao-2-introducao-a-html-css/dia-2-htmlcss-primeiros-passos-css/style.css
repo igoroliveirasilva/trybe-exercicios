@@ -1,0 +1,12 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+}
+
+li {
+    background-color: rgb(148, 137, 137);
+}
+
+.alteracoes {
+    background-color: rgb(216, 210, 210);
+}
